@@ -22,7 +22,6 @@ This assignment is intentionally designed to evaluate **senior-level engineering
   * Upcoming
   * Live
   * Completed
-* Pagination required
 
 ---
 
@@ -43,6 +42,7 @@ This assignment is intentionally designed to evaluate **senior-level engineering
 ## Mandatory: Live Session
 
 Implement **Live Session capability** 
+
 Integrate a video SDK, Show:
   * Join session
   * Live indicator
